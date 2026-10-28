@@ -1,0 +1,13 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "addin",
+	"id": "7b0d7c1e-3f1a-4c55-9a51-ff1c0e6a2d10",
+	"author": "Forefront Manufacturing",
+	"description": {
+		"": "Fixture Manager: a URN-tracked workholding library that inserts, swaps and mounts fixtures in CAM designs using named joint origins (no configurations)."
+	},
+	"version": "0.5.0",
+	"runOnStartup": true,
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}

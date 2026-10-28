@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# This machine's settings (library path) - each computer keeps its own
+config.json
+
+# Live-test libraries: they list the shop's Fusion file IDs
+tests/live_*.json
+
+# Release builds
+dist/
